@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Dancing+Script&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteiner{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.menu{
+    background-color: #A05C2D;
+    height: 55px;
+    box-shadow: black 2px 2px;
+}
+
+.img-menu{
+    width: 50px;
+    padding-left: 5px;
+    padding-top: 3px;
+    border: 1px black;
+}
+
+.link-menu{
+    font-family: 'Berkshire Swash';
+    color: white;
+}
+
+button{
+    background-color: #591902;
+    border: none;
+    width: 80px;
+    position: absolute;
+    top: 3%;
+    right: 15%;
+    box-shadow: black 2px 2px 2px;
+}
+
+h1{
+    margin: 10px 10px 15px 10px;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Berkshire Swash', sans-serif;
+}
+
+ul{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+h3{
+    font-family: 'Berkshire Swash', sans-serif;
+}
+
+li{
+    font-size: 20px;
+    font-family: 'Dancing Script', sans-serif;
+    
+}
+
+p{
+    font-family: 'Dancing Script', sans-serif;
+    padding-left: 5px;
+    text-align: justify;
+}
+
+.p1{
+    font-size: 20px;
+    font-family: 'Dancing Script', sans-serif;
+    padding-left: 5px;
+    text-align: justify;
+}
+
+
+footer{
+    background-color: #e7ccaa;
+    border-top: solid 1px;
+    height: 120px;
+}
+
+.rodape{
+    width: 100px;
+    padding: 10px 50px 10px 10px;
+    float: left;
+}
+
+.local-rodape{
+    width: 100px;
+    padding: 10px;
+    position: absolute;
+    right: 13%;    
+}
+
+.redes{
+    width: 30px;
+    
+}
+
+.p-rodape{
+    display: block;
+    position: relative;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.link-rodape{
+    padding-right: 50px;
+    color: black;
+    font-family: 'Dancing Script', sans-serif;
+    font-weight: bold;
+}
+
+.twitter{
+    display: inline-block;
+    position: absolute;
+    right: 380px;
+}
+
+.insta{
+    display: inline-block;
+    position: absolute;
+    right: 340px;
+
+}
+.face{
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+}
